@@ -11,3 +11,8 @@ body{
 .banner{
 background: url('../images/kaydensfarmsbanner.jpg')
 }
+
+.banner-text{
+  align: center;
+  font-family: 'Bad Script', cursive;
+}
