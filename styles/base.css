@@ -1,1 +1,13 @@
 /* Base styles */
+
+body{
+  background: #ffff00;
+  border: dotted dashed solid double #000000;
+  color: #0000ff;
+}
+
+
+
+.banner{
+ text-align: center; 
+}
